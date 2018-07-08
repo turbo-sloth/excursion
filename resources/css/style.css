@@ -1,0 +1,36 @@
+
+html {
+  font-family: Verdana;
+  color: white;
+  background-color: black;
+}
+
+div {
+  text-align: center;
+}
+
+.phone h1 {
+  font-weight: normal;
+  font-size: 50px;
+}
+
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.tent-image p{
+  font-size: 21px;
+  color: gray;
+}
+
+.copyright{
+  text-align: right;
+  color: gray;
+  font-size: 20px;
+}
